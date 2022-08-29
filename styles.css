@@ -1,0 +1,155 @@
+
+
+.nameandcurrentposition{
+    display: inline-flex;
+}
+
+.name{
+    -webkit-transform:rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    font-size: 58.5pt;
+    margin-top: 150px;
+    margin-bottom: 600px;
+    margin-left: 50px;
+    margin-right: auto;
+}
+
+.currentposition{
+    -webkit-transform:rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    font-size: 30.5pt;
+    margin-top: -250px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+    margin-right: auto;
+    text-align: right;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.photo{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    width: 200px;
+    align-content: flex-start;
+    margin-top: -470px;
+    margin-bottom: 1800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.item_language p,li{
+    display: inline-block;
+}
+
+.titlesleft{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.language{
+    text-align: left;
+    width: 40%;
+    padding-left: 0%;
+    margin-left: 60px;
+}
+
+
+.language_percent{
+    text-align: right;
+    width: 20%;
+    margin-right: 40px;
+}
+
+.contact{
+    margin-top: 100px;
+}
+
+.datacontact{
+    margin-left: 40px;
+}
+
+.righttittle{
+    margin-left: 70px;
+    font-size: 30pt;
+    margin-top: 50px;
+}
+
+.contentright1{
+    margin-left: 70px;
+    width: 600px;
+    font-size: 17.2pt;
+    text-align: justify;
+}
+
+.contentright2{
+    margin-left: 70px;
+}
+
+.dateducation{
+    margin-left: 70px;
+}
+
+.datexperience{
+    margin-left: 70px;
+}
+
+.company{
+    margin-left: 110px;
+}
+
+.position{
+    margin-left: 70px;
+}
+
+.donexperience{
+    margin-left: 70px;
+}
+
+
+.software{
+    text-align: left;
+    width: 40%;
+    margin-left: 60px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.sofpercent{
+    text-align: right;
+    width: 20%;
+    margin-right: 40px;
+}
+
+.softwareskills li,p {
+    display: inline-block;
+}
+
+
+
+
+.body_distribution{
+    display:flex;
+}
+
+.left_side{
+    margin-top:0%;
+    width: 400px;
+    padding-left: 0%;
+    background-color: black;
+    color: white;
+ 
+}
+
+.right_side{
+    width: auto;
+
+}
+
