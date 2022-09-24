@@ -164,3 +164,12 @@ h1 {
     color: #00539F;
     text-shadow: 3px 3px 1px black;
   }
+
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2c2c2c col;
+  }
+  
+  h3 {
+      font-family: "Times New Roman", Times, serif;
+  }
